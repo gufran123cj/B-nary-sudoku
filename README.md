@@ -1,5 +1,5 @@
 # Introductıon
-/n Bınary-sudoku
+Bınary-sudoku
 
 The aim of the project is to develop a single-player .Sudoku-like game called Binary Sudoku. 
 The game is played on a 9*9 board. The board will be filled with 10 different game elements by the player. 
